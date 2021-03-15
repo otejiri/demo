@@ -8,4 +8,4 @@ This is a another read me file
 
 # New add
 
-Add somethiing update on branch my nizzle
+Add trouble update on branch my nizzle
